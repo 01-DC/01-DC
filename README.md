@@ -44,12 +44,13 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
-<img align="left" alt="01-DC GitHub Stats" src="https://01-dc.vercel.app/api?username=01-dc&show_icons=true&hide_border=true" />
+<img align="left" alt="01-DC GitHub Stats" src="https://01-dc.vercel.app/api?username=01-dc&hide=issues&show_icons=true&hide_border=true&count_private=true&theme=cobalt" />
 
-</details>
+<img align="right" alt="01-DC Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
+---
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
