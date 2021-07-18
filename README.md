@@ -46,9 +46,9 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" alt="01-DC GitHub Stats" src="https://01-dc.vercel.app/api?username=01-dc&hide=issues&show_icons=true&hide_border=true&count_private=true&theme=cobalt" />
+<img align="left" alt="01-DC GitHub Stats" src="https://01-dc.vercel.app/api?username=01-dc&hide=issues&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-<img align="right" alt="01-DC Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" alt="01-DC Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 ---
 
