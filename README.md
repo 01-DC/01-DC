@@ -5,7 +5,7 @@
 ## I am a Student, Coder, Designer, Audiophile and Otaku.
 
 - I am interested to learn
-- Interested in Competitive Programming, ML, Web Development
+- I am currently doing Competitive Programming, ML and Web Development
 - Also interested in App development and CyberSecurity
 
 ---
@@ -17,6 +17,9 @@
 ---
 
 ### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/4190_DC]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/devanshu-chatterjee-517645200/]
 
 ---
 
