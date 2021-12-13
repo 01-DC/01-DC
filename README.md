@@ -2,11 +2,11 @@
 
 ---
 
-## I am a Student, Coder, Designer, Audiophile and Otaku.
+## Student | Coder | Designer | Audiophile | Otaku
 
-- I am interested to learn
-- I am currently doing Competitive Programming, ML and Web Development
-- Also interested in App development and CyberSecurity
+- I am interested in learning new things.
+- I am currently doing Competitive Programming, Machine Learning, Web Development and Open-Source.
+- My hobbies are 
 
 ---
 
@@ -18,8 +18,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/4190_DC)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/devanshu-chatterjee-517645200/)
+[<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/ios-filled/50/ffffff/twitter--v1.png" />](https://twitter.com/4190_DC)
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />](https://www.linkedin.com/in/devanshu-chatterjee-517645200/)
+</br>
 
 ---
 
@@ -29,14 +30,13 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
+<img align="left" alt="ReactJS" width="26px" src="https://img.icons8.com/officel/80/000000/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
+<img align="left" alt="NodeJS" width="26px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/windows/32/ffffff/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Ubuntu" width="26px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" />
 
 </br>
 
