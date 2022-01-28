@@ -23,6 +23,8 @@
 
 [<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/ffffff/twitter--v1.png" />](https://twitter.com/4190_DC)
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />](https://www.linkedin.com/in/devanshu-chatterjee-517645200/)
+[<img align="left" alt="Youtube" width="30px" src="https://img.icons8.com/ios-filled/50/ffffff/youtube-play.png" />](https://www.youtube.com/channel/UCD8FKrIz6Ye_w_ihtEulCKg)
+
 </br>
 
 ---
@@ -43,6 +45,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/windows/32/ffffff/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" />
+<img align="left" alt="Vue.js" width="30px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 
 </br>
 
