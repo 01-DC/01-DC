@@ -8,7 +8,7 @@
 ## Student | Coder | Designer | Audiophile | Otaku
 
 - I am interested in learning new things.
-- I am currently doing Competitive Programming, Machine Learning, Web Development and Open-Source.
+- I am currently doing Competitive Programming, Web Development, Machine Learning and Open-Source.
 - My hobbies are listening music, sketching, reading and a few more things.
 
 ---
@@ -46,6 +46,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" />
 <img align="left" alt="Vue.js" width="30px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
+<img align="left" alt="Open-CV" width="30px" src="https://img.icons8.com/fluency/144/000000/opencv.png" />
 
 </br>
 
