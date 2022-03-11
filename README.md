@@ -49,6 +49,5 @@
 
 ### GitHub Stats
 
-<img align="left" alt="01-DC GitHub Stats" src="https://01-dc.vercel.app/api?username=01-dc&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=01-dc&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+| ![01-DC GitHub Stats](https://01-dc.vercel.app/api?username=01-dc&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=01-dc&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D) |
+|--|--|
