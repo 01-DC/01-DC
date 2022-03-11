@@ -13,12 +13,6 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://01-dc.vercel.app/api/spotify-playing" alt="01-DC Spotify Playing" width="350" />](https://open.spotify.com/user/2prvkd3m2pk9hp15rb5t7yk8f)
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/ffffff/twitter--v1.png" />](https://twitter.com/4190_DC)
