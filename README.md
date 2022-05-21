@@ -41,6 +41,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" />
 <img align="left" alt="Vue.js" width="30px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
+<img align="left" alt="Open-CV" width="30px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
 <img align="left" alt="Open-CV" width="30px" src="https://img.icons8.com/fluency/144/000000/opencv.png" />
 
 </br>
