@@ -1,6 +1,7 @@
 # Hello, I am Devanshu Chatterjee   <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" height="45px">
 <p align="center">
-<img width="120px" src="https://visitor-badge.glitch.me/badge?page_id=01-dc.01-dc&left_color=red" alt="visitor badge"/>
+<!-- <img width="120px" src="https://visitor-badge.glitch.me/badge?page_id=01-dc.01-dc&left_color=red" alt="visitor badge"/> -->
+<img src="https://hits.dwyl.com/01-dc/01-dc.svg?style=flat" alt="hit counter" />
 </p>
 
 ---
