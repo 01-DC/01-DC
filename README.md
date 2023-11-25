@@ -30,18 +30,18 @@
 <img align="left" alt="CPP" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://skillicons.dev/icons?i=vscode" />
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="HTML5" width="30px" src="https://skillicons.dev/icons?i=html" />
+<img align="left" alt="CSS3" width="30px" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="ReactJS" width="30px" src="https://img.icons8.com/officel/80/ffffff/react.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://skillicons.dev/icons?i=js" />
 <img align="left" alt="NodeJS" width="30px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="30px" src="https://skillicons.dev/icons?i=git" />
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/windows/32/ffffff/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Vite" width="30px" src="https://skillicons.dev/icons?i=vite" />
 <img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" />
-<img align="left" alt="Nextjs" width="30px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
+<img align="left" alt="Nextjs" width="30px" src="https://skillicons.dev/icons?i=nextjs" />
 <img align="left" alt="Open-CV" width="30px" src="https://img.icons8.com/fluency/144/000000/opencv.png" />
 
 </br>
