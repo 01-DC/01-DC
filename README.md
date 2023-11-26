@@ -35,6 +35,7 @@
 <img align="left" alt="HTML5" width="30px" src="https://skillicons.dev/icons?i=html" />
 <img align="left" alt="CSS3" width="30px" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="ReactJS" width="30px" src="https://img.icons8.com/officel/80/ffffff/react.png" />
+<img align="left" alt="ReactJS" width="30px" src="https://skillicons.dev/icons?i=mongodb" />
 <img align="left" alt="JavaScript" width="30px" src="https://skillicons.dev/icons?i=js" />
 <img align="left" alt="NodeJS" width="30px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
 <img align="left" alt="Git" width="30px" src="https://skillicons.dev/icons?i=git" />
@@ -43,6 +44,7 @@
 <img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" />
 <img align="left" alt="Nextjs" width="30px" src="https://skillicons.dev/icons?i=nextjs" />
 <img align="left" alt="Open-CV" width="30px" src="https://img.icons8.com/fluency/144/000000/opencv.png" />
+<img align="left" alt="Pytorch" width="30px" src="https://skillicons.dev/icons?i=pytorch" />
 
 </br>
 
